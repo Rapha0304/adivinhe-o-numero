@@ -1,0 +1,24 @@
+body {
+    background-color: darkslateblue;
+}
+#entrada {
+    clear: both;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 30px;
+    width: 5em;
+    height: 3em;
+    text-align: center;
+    border-radius: 10px;
+    display: none;
+    outline: none;
+}
+
+button {
+    font-size: 200%;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 10em;
+    height: 2em;
+    outline: none;
+}
